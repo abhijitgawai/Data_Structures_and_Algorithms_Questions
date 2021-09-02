@@ -27,7 +27,7 @@
 
 * Trie
 
-* Dynamic Programing
+* [Dynamic Programing](https://github.com/abhijitgawai/Data-Structures-and-Algorithms-Questions/blob/master/Dynamic%20Programming%20DSA.ipynb)
 
 * Bit Manipulation
 
